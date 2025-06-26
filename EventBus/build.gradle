@@ -6,10 +6,6 @@ version = '3.0.0'
 sourceCompatibility = 1.17
 targetCompatibility = 1.17
 
-repositories {
-    mavenCentral()
-}
-
 dependencies {
     implementation 'com.google.android:android:4.1.1.4'
 }
